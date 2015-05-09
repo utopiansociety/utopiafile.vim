@@ -1,0 +1,14 @@
+
+	"app": {
+		"something": "hello",
+		"hello": "world",
+		"instances": 2
+	},
+	"deployment": {
+		"hello": "world",
+		"type": "app",
+		"wat": "test",
+		"args": []
+	},
+	"environment": {}
+}
